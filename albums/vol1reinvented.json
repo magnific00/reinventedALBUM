@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "name": "Reinvented | Volume 1",
+  "artists": ["Jujuzinha, AeFelipe, THMPlays, SKS, Pankdoe, Turtleman42"],
+  "albumArtAsset": "ui/freeplay/albums/vol1reinvented",
+  "albumTitleAsset": "ui/freeplay/albums/volume1-text",
+  "albumTitleOffsets": [8, 0]
+}
